@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Adnan Topčić 
 
-<!--
-**AdnanTopcic/AdnanTopcic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Electrical Engineering and Computer Science Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Based in Tuzla, Bosnia and Herzegovina
+- Interested in programming, software development, and technology
+- Currently learning C, C++
+- Working on personal and school projects to improve my skills
+
+## Skills
+
+- C
+- C++
+- Git & GitHub
+
+## Projects
+
+### Stopwatch
+A simple stopwatch application developed as part of my learning journey.
+More projects coming soon!
+
+## Goals
+
+- Improve my programming skills
+- Build useful software projects
+- Contribute to open-source projects
+- Continue learning modern technologies
+
+## Contact
+
+Email: adnantopcic1@gmail.com
+
+---
+
+⭐ Feel free to check out my repositories and follow my progress!
+
